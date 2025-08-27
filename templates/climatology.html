@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block title %}Климатологические данные - Гидролог.РФ{% endblock %}
+
+{% block content %}
+    <h1>Климатологические данные</h1>
+    <p class="lead">Пример таблицы с многолетними данными о среднегодовой температуре и годовом количестве осадков.</p>
+
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Год</th>
+                <th>Среднегодовая температура, °C</th>
+                <th>Годовое количество осадков, мм</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for record in records %}
+                <tr>
+                    <td>{{ record.year }}</td>
+                    <td>{{ record.avg_temp }}</td>
+                    <td>{{ record.precipitation }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

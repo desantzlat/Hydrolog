@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+
+{% block title %}Калькуляторы - Гидролог.РФ{% endblock %}
+
+{% block content %}
+
+<div class="mb-5">
+    <h2>Калькулятор расхода воды (Q = A * V)</h2>
+    <p class="lead">Введите параметры для расчета расхода воды в открытом русле.</p>
+
+    <form method="post">
+        <input type="hidden" name="calculator_type" value="discharge">
+        
+        <div class="mb-3">
+            <label for="area" class="form-label">Площадь поперечного сечения (A), м²:</label>
+            <input type="number" step="any" class="form-control" name="area" required>
+        </div>
+        <div class="mb-3">
+            <label for="velocity" class="form-label">Средняя скорость потока (V), м/с:</label>
+            <input type="number" step="any" class="form-control" name="velocity" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Рассчитать расход</button>
+    </form>
+
+    {% if discharge_result %}
+        <div class="alert alert-success mt-4" role="alert">
+            <h4 class="alert-heading">Результат:</h4>
+            <p>Расход воды (Q) = <strong>{{ discharge_result | round(3) }}</strong> м³/с</p>
+        </div>
+    {% endif %}
+</div>
+
+<hr>
+
+<div class="mt-5">
+    <h2>Калькулятор эмпирической обеспеченности (по ф. 5.1 СП 33-101-2003)</h2>
+    <p class="lead">Вставьте ряд гидрометрических наблюдений (каждое значение с новой строки).</p>
+    
+    <form method="post">
+        <input type="hidden" name="calculator_type" value="probability">
+        
+        <div class="mb-3">
+            <label for="data_series" class="form-label">Ряд данных:</label>
+            <textarea class="form-control" name="data_series" rows="10" placeholder="50.2&#10;48.9&#10;55.1&#10;..."></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Рассчитать обеспеченность</button>
+    </form>
+
+    {% if probability_results %}
+        <div class="mt-4">
+            <h4>Результаты расчета:</h4>
+            <p>Ранжированный ряд и соответствующая эмпирическая ежегодная вероятность превышения (обеспеченность), %.</p>
+            <table class="table table-striped table-bordered">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">m (ранг)</th>
+                        <th scope="col">Значение</th>
+                        <th scope="col">Обеспеченность (Pm), %</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in probability_results %}
+                    <tr>
+                        <td>{{ row.m }}</td>
+                        <td>{{ row.value }}</td>
+                        <td>{{ row.probability | round(2) }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% endif %}
+</div>
+
+{% endblock %}

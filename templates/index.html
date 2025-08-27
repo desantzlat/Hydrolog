@@ -1,0 +1,117 @@
+{% extends 'base.html' %}
+
+{% block title %}Карта - Гидролог.РФ{% endblock %}
+
+{% block content %}
+    <h1 class="mb-4">Интерактивная карта</h1>
+
+    <div class="row mb-3 align-items-end">
+        <div class="col-md-5">
+            <label for="coords-input" class="form-label"><b>Координаты объекта (широта, долгота):</b></label>
+            <input type="text" class="form-control" id="coords-input" placeholder="Например: 55.75, 37.62">
+        </div>
+        <div class="col-md-3">
+            <button class="btn btn-success" id="add-marker-btn">Поставить маркер</button>
+        </div>
+    </div>
+    
+    <div id="map"></div>
+{% endblock %}
+
+
+{% block scripts %}
+<script>
+    // --- 1. Инициализация карты ---
+    var map = L.map('map').setView([60, 90], 4);
+
+    // --- 2. Определяем несколько базовых слоёв (подложек) ---
+    var cartoLight = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    });
+
+    var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
+
+    var esriSatellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+    });
+    
+    // Устанавливаем светлую карту как слой по умолчанию при загрузке
+    cartoLight.addTo(map);
+
+    // --- 3. Группы слоёв и контроллер ---
+    var hydropostsLayer = L.markerClusterGroup();
+    var meteostationsLayer = L.markerClusterGroup();
+    var analysisLinesLayer = L.layerGroup().addTo(map);
+    var analysisLabelsLayer = L.layerGroup().addTo(map);
+    map.addLayer(hydropostsLayer);
+    map.addLayer(meteostationsLayer);
+    
+    // Создаём объект с нашими базовыми картами
+    var baseMaps = {
+        "Светлая карта": cartoLight,
+        "Стандартная (OSM)": osm,
+        "Спутник (Esri)": esriSatellite
+    };
+
+    // Создаём объект с нашими слоями данных
+    var overlayMaps = {
+        "Гидропосты": hydropostsLayer,
+        "Метеостанции": meteostationsLayer,
+        "Подписи (анализ)": analysisLabelsLayer
+    };
+    
+    // Добавляем контроллер на карту
+    L.control.layers(baseMaps, overlayMaps).addTo(map);
+    
+    // --- 4. Загрузка данных ---
+    var hydropostsData;
+    var meteostationsData;
+
+    fetch('/static/data/hydroposts.geojson').then(r => r.json()).then(data => { hydropostsData = data; L.geoJSON(data, { pointToLayer: (f, ll) => L.circleMarker(ll, { radius: 5, fillColor: "#ff0000", color: "#000", weight: 1, opacity: 1, fillOpacity: 0.8 }).bindPopup(f.properties['Платформа: название']) }).addTo(hydropostsLayer); });
+    fetch('/static/data/meteostations.geojson').then(r => r.json()).then(data => { meteostationsData = data; L.geoJSON(data, { pointToLayer: (f, ll) => L.marker(ll, { icon: L.divIcon({ className: 'meteo-station-icon', html: '<div style="background-color: #008000; width: 8px; height: 8px; border: 1px solid #000;"></div>', iconSize: [10, 10] }) }).bindPopup(f.properties['Платформа: название']) }).addTo(meteostationsLayer); });
+
+    // --- 5. Интерактивный маркер и анализ ---
+    var userMarker;
+    function placeMarker(lat, lng) { if (userMarker) { userMarker.setLatLng([lat, lng]); } else { userMarker = L.marker([lat, lng]).addTo(map); } document.getElementById('coords-input').value = `${lat.toFixed(4)}, ${lng.toFixed(4)}`; map.setView([lat, lng], 8); findNearby(lat, lng); }
+    map.on('click', function(e) { placeMarker(e.latlng.lat, e.latlng.lng); });
+    document.getElementById('add-marker-btn').addEventListener('click', function() { const input = document.getElementById('coords-input').value; const parts = input.split(','); if (parts.length === 2) { const lat = parseFloat(parts[0].trim()); const lng = parseFloat(parts[1].trim()); if (!isNaN(lat) && !isNaN(lng)) { placeMarker(lat, lng); } else { alert('Неверный формат координат!'); } } });
+    
+    function calculateDistance(lat1, lon1, lat2, lon2) { var R = 6371; var dLat = (lat2 - lat1) * Math.PI / 180; var dLon = (lon2 - lon1) * Math.PI / 180; var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLon / 2) * Math.sin(dLon / 2); var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)); return R * c; }
+
+    function findNearby(lat, lng) {
+        analysisLinesLayer.clearLayers();
+        analysisLabelsLayer.clearLayers();
+        const radius = 100;
+
+        if (hydropostsData && hydropostsData.features) {
+            hydropostsData.features.forEach(function(feature) {
+                const postLng = feature.geometry.coordinates[0];
+                const postLat = feature.geometry.coordinates[1];
+                const distance = calculateDistance(lat, lng, postLat, postLng);
+                if (distance <= radius) {
+                    const distanceText = `${distance.toFixed(2)} км`;
+                    const postName = feature.properties['Платформа: название'];
+                    L.polyline([[lat, lng], [postLat, postLng]], { color: 'gray', dashArray: '5, 5' }).bindTooltip(distanceText, { permanent: true, className: 'distance-label', offset: [0, -15] }).addTo(analysisLinesLayer);
+                    L.tooltip({ permanent: true, direction: 'right', offset: [10, 0], className: 'station-name-label' }).setLatLng([postLat, postLng]).setContent(postName).addTo(analysisLabelsLayer);
+                }
+            });
+        }
+
+        if (meteostationsData && meteostationsData.features) {
+            meteostationsData.features.forEach(function(feature) {
+                const stationLng = feature.geometry.coordinates[0];
+                const stationLat = feature.geometry.coordinates[1];
+                const distance = calculateDistance(lat, lng, stationLat, stationLng);
+                if (distance <= radius) {
+                    const distanceText = `${distance.toFixed(2)} км`;
+                    const stationName = feature.properties['Платформа: название'];
+                    L.polyline([[lat, lng], [stationLat, stationLng]], { color: 'gray', dashArray: '5, 5' }).bindTooltip(distanceText, { permanent: true, className: 'distance-label', offset: [0, -15] }).addTo(analysisLinesLayer);
+                    L.tooltip({ permanent: true, direction: 'right', offset: [10, 0], className: 'station-name-label' }).setLatLng([stationLat, stationLng]).setContent(stationName).addTo(analysisLabelsLayer);
+                }
+            });
+        }
+    }
+</script>
+{% endblock %}

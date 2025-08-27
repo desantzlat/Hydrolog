@@ -1,0 +1,5816 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.XOПEP - ПАНОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.35,
+          52.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БУЗУЛУK - ПЕРЕВОЗНИКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.26,
+          52.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.KAPAЙ - ПОДГОРНОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8,
+          51.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧAПAEBKA - ПОДЪЕМ МИХАЙЛОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51,
+          52.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.MAЛЫЙ KИHEЛЬ - ПОЛУДНИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.71,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ КИНЕЛЬ - ТИМАШЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.05,
+          53.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КУТУЛУК - КРАСНЫЙ ОКТЯБРЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.63,
+          53.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СОК - СТАРОСЕМЕЙКИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.31,
+          53.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ ИРГИЗ - ТОЛСТОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.98,
+          52.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ ИРГИЗ - ПУГАЧЕВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.78,
+          52.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ ЧЕРЕМШАН - МЕЛЕКЕСС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.61,
+          54.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ ЧЕРЕМШАН - НОВОЧЕРЕМШАНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.65,
+          54.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЫЗРАНКА - РЕПЬЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7,
+          53.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУРА - АЛАТЫРЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.58,
+          54.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУРА - ПОрецкое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.33,
+          55.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУРА - СУРСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8,
+          54.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СВИЯГА - ВЫРЫПАЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.33,
+          54.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МЕДВЕДИЦА - АТКАРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03,
+          51.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ХОПЕР - БЕКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.26,
+          52.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТЕРЕСА - ВЯЗОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7,
+          52.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕРДОБА - СЕРДОБСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.23,
+          52.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УЗА - ЧААДАЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.06,
+          53.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИНЗА - ИНЗА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.36,
+          53.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БАРЫШ - БАРЫШ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.11,
+          53.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САМАРА - БОГАТОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38,
+          52.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БЕЛАЯ - АНДРЕЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.18,
+          53.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СИМ - ГЛУХОВСКАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6,
+          55.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЮРЮЗАНЬ - ВЕРХНЯЯ ЛУКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5,
+          55.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УФА - НЯЗЕПЕТРОВСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6,
+          56.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АЙ - МЕТЕЛИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.68,
+          55.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АЙ - ВЕКЕЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.11,
+          55.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УФА - ШАМАХА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.23,
+          56.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ДЕМА - БОЧКАРЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3,
+          53.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧЕРМАСАН - НОВЫЕ БАЛЫКЛЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.66,
+          54.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ ИК - МРАКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.63,
+          52.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРСАК - КРАСНАЯ ГОРКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6,
+          54.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУХАЯ ДЕМА - ИМАМГУЛОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8,
+          54.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАРМАСАН - СТАРОМУСИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3,
+          54.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САРМАШ - ТЕЛЕНЬЧИ-ТАМАК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.53,
+          55.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АША - АША"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57,
+          55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УФА - ВЕРХНИЙ УФАЛЕЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.25,
+          56.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕРГА - АРАКАЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.41,
+          56.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ КИЗИЛ - ИШМУХАМЕТОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.46,
+          52.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ КИЗИЛ - ВЕРХНЕ-АБДРЯШЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.63,
+          53.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТАНАЛЫК - БАЙМАК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.33,
+          52.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРАЛ - ИШКУЛОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.15,
+          52.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРСАК - ДАВЛЕКАНОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.03,
+          54.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАГАНА - ДЕРЕВНЯ НОВОБАЙРАМГУЛОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.98,
+          54.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЯНТИК - ДЕРЕВНЯ АРАСЛАНОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.23,
+          54.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАЛАЯ ТЕЧА - ПОСЕЛОК КУРОРТ УВИЛЬДЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.55,
+          55.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИЛИК - ПОКРОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.25,
+          51.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШАЯ УРТАЗЫМКА - Г. СИБАЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.68,
+          52.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МИАСС - ЧЕЛЯБИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4,
+          55.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УЙ - СТЕПНОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.26,
+          53.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УЙ - ТРОИЦК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.56,
+          54.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРАЛ - ВЕРХНЕУРАЛЬСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.21,
+          53.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРАЛ - МАГНИТОГОРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.98,
+          53.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ГУМБЕЙКА - АБЛЯЗОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48,
+          53.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШАЯ КАРАГАНКА - КИЗИЛЬСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.18,
+          52.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЕРХНИЙ ТОГУЗАК - КОМСОМОЛЬСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.95,
+          53.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СИНТАШТА - БРЕДЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.31,
+          52.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРАЛ - ОРЕНБУРГ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1,
+          51.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САКМАРА - КУВАНДЫК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.36,
+          51.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ ИК - СПАССКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.88,
+          52.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САМАРА - ГАМАЛЕЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03,
+          51.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ УРАН - ИВАНОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.51,
+          52.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАЛЫЙ УРАН - АЛЕКСЕЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.55,
+          52.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТОК - ЕРОХОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.18,
+          52.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САЛМЫШ - БУЛАНОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.51,
+          52.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРАЛ - ОРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.56,
+          51.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРАЛ - ИЛЕК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.51,
+          51.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИЛЕК - ВЕРИНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.66,
+          51.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУУНДУК - МАЙСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.7,
+          51.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОРЬ - АЩИБУТАК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.68,
+          50.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШАЯ ХОБДА - АЛИМБЕТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61,
+          50.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЖУСАЛЫ - СТАНЦИЯ ЖУСАЛЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.81,
+          50.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САМАРА - СОРОЧИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.15,
+          52.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САКМАРА - ТАТ.КАРГАЛА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.01,
+          51.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАМА - ГАЙНЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.95,
+          60.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВИШЕРА - РЯБИНИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.18,
+          60.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЯЗЬВА - КРАСНОВИШЕРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08,
+          60.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОСА - КОСА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.98,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИНЬВА - КУДЫМКАР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.66,
+          59.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОБВА - КАРАГАЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.93,
+          58.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧУСОВАЯ - КЫН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.11,
+          57.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЫЛВА - ПОДКАМЕННОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.48,
+          57.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИРЕНЬ - ОРДА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.91,
+          56.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТЮЙ - БИЯВАШ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.88,
+          56.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧУСОВАЯ - ВЕРХНЕЧУСОВСКИЕ ГОРОДКИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.71,
+          58.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЕСЛЯНА - ТИМШЕР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03,
+          60.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВИШЕРА - УСТЬ-УЛС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.23,
+          60.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОЛВА - ЧЕРДЫНЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.5,
+          60.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВИШЕРА - СЫПУЧИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.23,
+          61.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УСЬВА - УСЬВА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.65,
+          58.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОЙВА - КУСЬЕ-АЛЕКСАНДРОВСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.91,
+          58.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧУСОВАЯ - г. ЧУСОВОЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.81,
+          58.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЫЛВА - КУНГУР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.95,
+          57.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЮСЬВА - АРХАНГЕЛЬСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43,
+          59.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАМА - УСТЬ-КОСА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91,
+          59.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАМА - ТЮЛЬКИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1,
+          58.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СИВА - БОЛЬШАЯ СОСНОВА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4,
+          56.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТУЛВА - ТЮНДЮК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48,
+          56.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БУЙ - КРАСНОЯР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.18,
+          56.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ШАКВА - КРАСНЫЙ ЛУГ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.45,
+          57.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОЛВА - КОРОВИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.36,
+          60.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОЛОКША - МИХАЙЛОВСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.98,
+          57.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - УГЛИЧ(ВЕРХНИЙ БЬЕФ)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.33,
+          57.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - УГЛИЧ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.31,
+          57.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - МЫШКИН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.45,
+          57.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - РЫБИНСК(ПЕРЕБОРЫ)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7,
+          58.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СИТЬ - НЕКОУЗ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86,
+          57.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ШЕКСНА - ШЕКСНА(ГЭС)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5,
+          59.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЯГОРА - ДЕРЕВНЯ ЯГОРБА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.93,
+          59.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУДА - БОРКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.81,
+          59.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - ЯРОСЛАВЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9,
+          57.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СОГОЖА - АНДРЮШИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68,
+          58.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УХРА - КОНДРАТОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.36,
+          58.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОТОРОСЛЬ - ГАВРИЛОВ-ЯМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.85,
+          57.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОЛОГА - ФАБРИКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.43,
+          58.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ШЕКСНА - ЧЕРЕПОВЕЦ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9,
+          59.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - КОСТРОМА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.91,
+          57.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОСТРОМА - БУЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.53,
+          58.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УНЖА - КОЛОГРИВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31,
+          58.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЕТЛУГА - КАЖИРОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.95,
+          58.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НЕЯ - ПАРФЕНЬЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.43,
+          58.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МЕРА - ЗАРЕЧНЫЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.21,
+          57.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УНЖА - МАКАРЬЕВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8,
+          57.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УНЖА - МАНТУРОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75,
+          58.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЕТЛУГА - ШАРЬЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.51,
+          58.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОХМА - ТИХОН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.21,
+          59.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - КИНЕШМА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.15,
+          57.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КЛЯЗЬМА - КОВРОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.33,
+          56.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - КАЛУГА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.26,
+          54.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - АЛЕКСИН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.06,
+          54.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - СЕРПУХОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.45,
+          54.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПРОТВА - Спас-Загорье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.43,
+          55.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НАРА - НАР-ФОМИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73,
+          55.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОСКВА - ВЕРХНЕЕ МОСКВОРЕЧЬЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6,
+          55.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОСКВА - ЗВЕНИГОРОД"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.83,
+          55.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПАХРА - д. Ям"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.71,
+          55.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕВЕРКА - С. ВЕРХНЕЕ МЯЧКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.01,
+          55.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.РУЗА - д.Красностанье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.58,
+          55.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОЗЕРНА - д.Городище"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1,
+          55.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИСТРА - с.Павловская Слобода"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.08,
+          55.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЯМА - ДЕРЕВНЯ СУХИНИКИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83,
+          56.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - ТВЕРЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.91,
+          56.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - ЭММАУС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.08,
+          56.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТВЕРЦА - пгт. Медное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46,
+          56.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОСУГА - д.Чертолино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5,
+          56.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВАЗУЗА - ЗУБЦОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.58,
+          56.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ШОША - д.Тургиново"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.46,
+          56.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОЛОГА - д.Максатиха"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86,
+          57.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МСТА - с.Потерпелицы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.61,
+          58.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПЧЕВЖА - ДЕРЕВНЯ ОБЛУЧЬЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.88,
+          59.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛХОВ - ВОЛХОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.33,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МСТА - НОВГОРОД"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.28,
+          58.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НИША - п.СОЛЬЦЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.33,
+          58.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛОВАТЬ - ХОЛМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.16,
+          57.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛУГА - ТОЛМАЧЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9,
+          58.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НЕВА - ПЕТРОКРЕПОСТЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9,
+          59.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СВИРЬ - ПОДПОРОЖЬЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1,
+          60.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЯСЬ - д.Яхново"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.15,
+          59.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПЛЮССА - д.Брод"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.51,
+          58.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОРЕДЕЖ - д.Вырица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.33,
+          59.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СВИРЬ - д.Вознесенье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08,
+          60.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПАША - д.Часовенское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.56,
+          60.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТИХВИНКА - г.Тихвин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.53,
+          59.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - ЕЛЬЦЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.33,
+          56.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - РЖЕВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.33,
+          56.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - СТАРИЦА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.93,
+          56.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ДНЕПР - СМОЛЕНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.05,
+          54.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ДНЕПР - ДОРОГОБУЖ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.31,
+          54.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СОЖ - СМОЛЕНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9,
+          54.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЯЗЬМА - ВЯЗЬМА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3,
+          55.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УГРА - ЗНАМЕНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.93,
+          54.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОРОНКА - ПОСЕЛОК ГОРЕЛКИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.58,
+          54.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УПА - ТУЛА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61,
+          54.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КРАСИВАЯ МЕЧА - ЕФРЕМОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1,
+          53.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕЖА - АФАНАСОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.28,
+          54.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОКША - РЯЗАНСКАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.06,
+          54.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОКША - КАДОМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.46,
+          54.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЦНА - ТАМБОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.45,
+          52.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЦНА - ГОРЕЛКИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.45,
+          52.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧЕЛНОВАЯ - ПЕРЕДОВИК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.1,
+          52.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОРОНЕЖ - ОСТРОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6,
+          52.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАТЫРА - ПЛЕХАНОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.06,
+          52.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ДОН - ЕПИФАНЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.56,
+          53.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ДОН - ДАНКОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.15,
+          53.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СОСНА - ЕЛЕЦ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.51,
+          52.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ДОН - ЗАДОНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.93,
+          52.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОРОНЕЖ - ЛИПЕЦК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6,
+          52.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ХОПЕР - БАЛАШОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.16,
+          51.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ХОПЕР - НОВОХОПЕРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.61,
+          51.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САВАЛА - ТРОИЦКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.11,
+          51.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЕЛАНЬ - ЕЛАНЬ-КОЛЕНОВСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.13,
+          51.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БИТЮГ - БОБРОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.03,
+          51.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УСМАНЬ - УСМАНЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.73,
+          52.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЦНА - СЕРПОВОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.01,
+          54.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОКША - ЕЛЬНИКИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.83,
+          54.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИНСАР - САРАНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.18,
+          54.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПЬЯНА - ГАГИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28,
+          55.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - КАШИРА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.16,
+          54.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - КОЛОМНА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8,
+          55.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - РЯЗАНЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.78,
+          54.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОСЕТР - ЗАРЕЧЬЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76,
+          54.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПРОНЯ - д. Быково"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.61,
+          54.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - ПОЩУПОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81,
+          54.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - СТАРАЯ РЯЗАНЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.41,
+          54.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ГУСЬ - ГУСЬ-ЖЕЛЕЗНЫЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.08,
+          55.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПАРА - МУРАЕВНЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.91,
+          53.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - КАСИМОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.4,
+          54.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - МУРОМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.06,
+          55.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОКША - КРАСНОСЛОБОДСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.78,
+          54.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КЛЯЗЬМА - ОРЕХОВО-ЗУЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.96,
+          55.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КИРЖАЧ - ИЛЕЙКИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9,
+          56.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КЛЯЗЬМА - ПЕТУШКИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46,
+          55.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КЛЯЗЬМА - ВЛАДИМИР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.41,
+          56.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУДОГДА - СУДОГДА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.85,
+          55.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НЕРЛЬ - с.Кибергино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.8,
+          56.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОКА - ГОРБАТОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.05,
+          56.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТЕША - АРЗАМАС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.83,
+          55.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КЛЯЗЬМА - ГАЛИЦЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1,
+          56.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - НИЖНИЙ НОВГОРОД(ВЕРХНИЙ БЬЕФ)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.83,
+          56.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - НИЖНИЙ НОВГОРОД"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.88,
+          56.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - БАЛАХНА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.58,
+          56.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УНЖА - ЧКАЛОВСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.25,
+          56.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КУДЬМА - КАДНИЦЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.33,
+          56.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУРА - КНЯЖИХА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.88,
+          55.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЕТЛУГА - ВЕТЛУЖСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8,
+          57.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УСТА - УСТА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2,
+          57.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КЕРЖЕНЕЦ - ХАХАЛЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7,
+          56.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛИНДА - ВАСИЛЬЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.03,
+          56.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - ЮРЬЕВЕЦ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.11,
+          57.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - ВАСИЛЬСУРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.01,
+          56.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - КОЗЬМОДЕМЬЯНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.56,
+          56.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЕТЛУГА - с.Староустье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.53,
+          56.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - ЧЕБОКСАРЫ(ГЭС)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.31,
+          56.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЛГА - ЗЕЛЕНОДОЛЬСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51,
+          55.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СВИЯГА - БУИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3,
+          54.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЯТКА - СЛОБОДСКОЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.18,
+          58.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЯТКА - КИРОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.65,
+          58.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧЕПЦА - ЗУЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.05,
+          58.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЕЛИКАЯ - БИСЕРОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.18,
+          58.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕТКА - КАЗАНЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6,
+          59.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЯТКА - КОТЕЛЬНИЧ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.33,
+          58.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПИЖМА - СОВЕТСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.95,
+          57.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МОЛОМА - КУРЕНЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.98,
+          58.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НЕМДА - ЛЕБЯЖЬЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.46,
+          57.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КИЛЬМЕЗЬ - ВИЧМАРЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.13,
+          57.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОЯ - НОЛИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.93,
+          57.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАМА - ИЖЕВСКИЙ ЗАВОД"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.21,
+          56.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СИВА - ЛИК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.21,
+          56.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВОТКА - ВОТКИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54,
+          57.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИЖ - ИЖЕВСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.21,
+          56.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВАЛА - ВАВОЖ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.98,
+          56.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КИЛЬМЕЗЬ - СЕЛЬЦЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9,
+          56.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАЗАНКА - АРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.88,
+          56.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МЕША - ПЕСТРЕЦЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6,
+          55.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИЛЕТЬ - КРАСНЫЙ СТЕКЛОВАР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.33,
+          56.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИЛЕТЬ - КРАСНОГОРСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35,
+          56.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАЛАЯ КОКШАГА - ЙОШКАР-ОЛА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9,
+          56.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАМА - НАБЕРЕЖНЫЕ ЧЕЛНЫ(ГЭС)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.46,
+          55.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИК - НАГАЙБАКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8,
+          55.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ШЕШМА - СТАРО-ШЕШМИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61,
+          55.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МЕНЗЕЛЯ - МЕНЗЕЛИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1,
+          55.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧЕРЕМХОВКА - ПОСЕЛОК ЧЕРЕМХОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7,
+          50.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРКАН(ВЕРХНИЙ) - ИВАНОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.91,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРКАН(НИЖНИЙ) - СНЕЖНОГОРСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8,
+          54.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕЛЕМДЖА - СТОЙБА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.6,
+          52.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕЛЕМДЖА - НОРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.83,
+          51.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БЫССА - БЫССА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.68,
+          52.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НОРА - НОРА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4,
+          52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЗЕЯ - ЗЕЯ (ВЕРХНИЙ БЬЕФ)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3,
+          53.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЗЕЯ - ЗЕЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.26,
+          53.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЗЕЯ - КРАСНОЯРОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.65,
+          52.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ДЕП - ХОГОТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33,
+          54.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЗЕЯ - МАЛАЯ САЗАНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.48,
+          51.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЗЕЯ - БЛАГОВЕЩЕНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.51,
+          50.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УР - БЕРЕЗОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.75,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШАЯ ПЕРА - ЧЕРНЯЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.78,
+          52.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТОМЬ - БЕЛОГОРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.48,
+          50.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - ИГНАТЬЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.41,
+          50.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БУРЕЯ - МАЛИНОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.68,
+          49.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТУЮН - АРХАРА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1,
+          49.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - ИННОКЕНТЬЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.45,
+          49.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - КОНСТАНТИНОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.01,
+          49.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЗАВИТАЯ - ЗАВИТИНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.45,
+          50.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ГИЛЮЙ - МОГОТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.95,
+          54.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ГИЛЮЙ - ЗЛАТОУСТОВСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.13,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БУРЕЯ - КАМЕНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.33,
+          50.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БУРЕЯ - УСТЬ-НИМАН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.05,
+          51.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТЫРМА - ЧУКЧАГИРСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.68,
+          51.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - ПАШКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.55,
+          48.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - ЕКАТЕРИНО-НИКОЛЬСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.95,
+          48.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - НАГИБОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.33,
+          47.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БИРА - БИРОБИДЖАН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.93,
+          48.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТУНГУСКА - АРХАНГЕЛОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.41,
+          48.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УРМИ - НОВОКАЗАЛИСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.06,
+          49.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КУР - НОВОКУРОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.31,
+          49.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТУНГУСКА - ВОЛОЧАЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.61,
+          48.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМГУНЬ - ИМЕНИ ПОЛИНЫ ОСИПЕНКО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.5,
+          52.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КЕРБИ - КЕРБИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.5,
+          52.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НИМЕЛЕН - ТУГУР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.78,
+          53.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - ХАБАРОВСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.06,
+          48.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УССУРИ - КАЗАКЕВИЧЕВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.78,
+          48.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ХОР - ХОР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.95,
+          47.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - НИЖНЕСПАССКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135,
+          49.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ХАРПИ - ХАРПИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.88,
+          50.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ГОРЮН - СРЕДНЕГОРЮНСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.03,
+          51.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - ТРОИЦКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.56,
+          49.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - КОМСОМОЛЬСК-НА-АМУРЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.01,
+          50.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - БОГОРОДСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9,
+          52.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - МАРИИНСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11,
+          51.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - НИКОЛАЕВСК-НА-АМУРЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.73,
+          53.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УССУРИ - ВЕРХНЯЯ УССУРКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.13,
+          44.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШАЯ УССУРКА - РОЩИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5,
+          45.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАЛИНОВКА - ВЕСЕЛЫЙ ЯР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.18,
+          45.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БИКИН - ЗВЕНИГОРОДКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.33,
+          46.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ДАУБИХЭ - ЯСНАЯ ПОЛЯНА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.56,
+          44.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КРЫЛОВКА - КРЫЛОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.45,
+          45.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМУР - УСТЬ-СУНГАРИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.53,
+          47.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУНГАЧ - МАРКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.06,
+          45.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИЛИСТАЯ - ХАЛКИДОН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.11,
+          44.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АРСЕНЬЕВКА - АРСЕНЬЕВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.28,
+          44.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПАРТИЗАНСКАЯ - ВЛАДИМИРО-АЛЕКСАНДРОВСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.06,
+          42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АРТЕМОВКА - ШТЫКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.33,
+          43.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.РАЗДОЛЬНАЯ - ТЕРЕХОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.53,
+          44.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УССУРИ - КАМЕНЬ-РЫБОЛОВ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.03,
+          44.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТУМАННАЯ - ХАСАН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.65,
+          42.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТЫМЬ - АРГИ-ПАГИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.66,
+          51.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПОРОНАЙ - ПОРОНАЙСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1,
+          49.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЮТОГА - ОГОНЬКИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61,
+          46.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АНАДЫРЬ - МАРКОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.41,
+          64.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АНАДЫРЬ - СНЕЖНОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.03,
+          65.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАЙН - УСТЬ-МАЙН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.93,
+          65.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АНАДЫРЬ - НИЖНЕЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.48,
+          64.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЕЛИКАЯ - ПОДГОРНАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.36,
+          64.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМГУЭМА - 105 КМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.13,
+          67.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПАЛЯВААМ - ПАЛЯВААМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.8,
+          68.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАМЧАТКА - НИЖНЕКАМЧАТСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.46,
+          56.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АВАЧА - ЕЛИЗОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.38,
+          53.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШАЯ - БОЛЬШЕРЕЦК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.76,
+          52.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЯНА - ВЕРХОЯНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.38,
+          67.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЯНА - УСТЬ-КУЙГА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.53,
+          70.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.САРТАНГ - УСТЬ-САРТАНГ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.11,
+          67.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АДЫЧА - УСТЬ-ЧАРКЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.91,
+          68.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИНДИГИРКА - ИНДИГИРСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05,
+          70.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИНДИГИРКА - ЧОКУРДАХ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9,
+          70.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕЛЕННЯХ - САЙЫЛЫК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.91,
+          68.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УЯНДИНА - УЯНДИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1,
+          69.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОЛЫМА - УСТЬ-СРЕДНЕКАН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.05,
+          62.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОЛЫМА - СЕЙМЧАН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.41,
+          62.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОЛЫМА - ЗЫРЯНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.88,
+          65.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОЛЫМА - СРЕДНЕКОЛЫМСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.7,
+          67.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОЛЫМА - КОЛЫМСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.73,
+          68.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БАЛЫГЫЧАН - ЭЛЬГЕНДЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.13,
+          63.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУГОЙ - СУГОЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05,
+          63.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЯСАЧНАЯ - НЕЛЕМНОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8,
+          64.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОМОЛОН - КУБАЛАТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.08,
+          66.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОЛОЙ - УСТЬ-ОЛОЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.26,
+          65.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ АНЮЙ - КОНСТАНТИНОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.76,
+          67.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - ЗМЕИНОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.15,
+          52.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - УСТЬ-КУТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7,
+          56.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - КИРЕНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.11,
+          57.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВИТИМ - БОДАЙБО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2,
+          57.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАМА - ЛУГОВСКОЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.91,
+          58.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - ВИЗИРНЫЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4,
+          58.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВИТИМ - МАМА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9,
+          58.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЧАРА - ЧАРА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.26,
+          56.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОЛЕКМА - ДИБИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.91,
+          58.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТУНГИР - ГУЛЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.88,
+          55.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - САЛДЫКЕЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          59.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОЛЕКМА - КУДУ-КЮЕЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.7,
+          58.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АЛДАН - ТОММОТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          58.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АМГА - АМГА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.96,
+          60.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - ЯКУТСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75,
+          62.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - САНГАР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.48,
+          63.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - ЖИГАНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.56,
+          66.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЕНА - КЮСЮР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.38,
+          70.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МАРХА - МАЛЫКАЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95,
+          62.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТЮКТЯН - ТЮКТЯН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.25,
+          62.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВИЛЮЙ - СУНТАР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.65,
+          62.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВИЛЮЙ - ВИЛЮЙСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.63,
+          63.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВИЛЮЙ - ВЕРХНЕВИЛЮЙСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31,
+          63.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТЮНГ - ТЮНГ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.08,
+          63.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АНАБАР - САскылах"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.08,
+          71.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОЛЕНЕК - ОЛЕНЕК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.45,
+          68.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОЛЕНЕК - СУХАНА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95,
+          72.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОТУЙ - КОТУЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.53,
+          69.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ХАТАНГА - ХАТАНГА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5,
+          71.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УНЖА - УНЖА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.53,
+          63.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПОДКАМЕННАЯ ТУНГУСКА - ВАНАВАРА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.28,
+          60.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.АНГАРА - ТАТАРКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.38,
+          58.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЕНИСЕЙ - ЕНИСЕЙСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.16,
+          58.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЕНИСЕЙ - ВЕРХНЕИМБАТСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.95,
+          62.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЕНИСЕЙ - ИГАРКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.56,
+          67.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НИЖНЯЯ ТУНГУСКА - ТУРА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.21,
+          64.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.БОЛЬШОЙ ПИТ - БРЯНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.43,
+          58.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕВЕРНАЯ - СЕВЕРНЫЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.13,
+          60.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЫМ - СЫМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.15,
+          60.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЕЛОВАЯ - ЕЛОВАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35,
+          61.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТУРУХАН - ЯНОВ СТАН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9,
+          65.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КУРЕЙКА - СВЕТЛОГОРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36,
+          66.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ХАНТАЙКА - СНЕЖНОГОРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.58,
+          68.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПЯСИНА - ПЯСИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          69.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТАЗ - ТАЗОВСКИЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7,
+          67.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПУР - ТАРКО-САЛЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.78,
+          64.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.НАДЫМ - НАДЫМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51,
+          65.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КАЗЫМ - ЮИЛЬСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.86,
+          63.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КОНДА - АЛТАЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.0,
+          60.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИРТЫШ - ТОБОЛЬСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.25,
+          58.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТОБОЛ - ЯЛУТОРОВСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.3,
+          56.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ТУРА - ТЮМЕНЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.53,
+          57.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИШИМ - ИШИМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.48,
+          56.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИШИМ - ИЛЬИНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.51,
+          56.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВАГАЙ - ЧЕРНОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.01,
+          57.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИРТЫШ - УСТЬ-ИШИМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.16,
+          57.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИРТЫШ - ТАРА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.36,
+          56.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИРТЫШ - ТЕВРИЗ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4,
+          57.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИРТЫШ - ХАНТЫ-МАНСИЙСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.01,
+          61.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕВЕРНАЯ СОСЬВА - СОСНОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.63,
+          61.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛЯПИН - САРАНПАУЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.53,
+          64.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОБЬ - СУРГУТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5,
+          61.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОБЬ - ОКТЯБРЬСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.08,
+          62.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОБЬ - САЛЕХАРД"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.53,
+          66.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПЕЧОРА - УСТЬ-УНЬЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.96,
+          62.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПЕЧОРА - ТРОИЦКО-ПЕЧОРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2,
+          62.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИЛЫЧ - МИТРОФАНОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.76,
+          62.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЫМЬ - УСТЬ-ВЫМЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.68,
+          62.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.МЕЗЕНЬ - БОЛЬШАЯ ПЫССА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.16,
+          64.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПЕЧОРА - УСТЬ-ЩУГОР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.65,
+          64.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.УСА - ПЕТРУНЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.4,
+          66.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ИЖМА - УСТЬ-УХТА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.68,
+          63.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕВЕРНАЯ ДВИНА - УСТЬ-ПИНЕГА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.91,
+          64.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ПИНЕГА - КУЛОГОРА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75,
+          64.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУХОНА - ТОТЬМА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.76,
+          59.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СУХОНА - ВЕЛИКИЙ УСТЮГ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3,
+          60.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.КУБЕНА - КУБЕНСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.63,
+          59.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕВЕРНАЯ ДВИНА - КОТЛАС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.65,
+          61.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.СЕВЕРНАЯ ДВИНА - БЕРЕЗНИК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.71,
+          62.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЫЧЕГДА - СОЛЬВЫЧЕГОДСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.91,
+          61.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВЫЧЕГДА - ЯРЕНСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1,
+          62.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЛУЗА - КРАСАВИНО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.98,
+          60.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ВАГА - ШЕНКУРСК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9,
+          62.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОНЕГА - КАРГОПОЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5,
+          61.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ОНЕГА - ПОРОГ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.08,
+          62.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Платформа: название": "Р.ЮГ - ПОДОСИНОВЕЦ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.06,
+          60.28
+        ]
+      }
+    }
+  ]
+}
